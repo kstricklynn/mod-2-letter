@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 
 <html>
-
+     
 <head>
+    <meta charset="utf-8">
       <h1>Eileen Dover University Application Letter</h1>
 </head>
 <body>
